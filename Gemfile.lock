@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    puma (3.12.1)
+    rack (2.0.6)
+    seg (1.2.0)
+    syro (3.1.1)
+      rack (>= 1.6.0)
+      seg
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puma
+  syro (~> 3.1)
+
+RUBY VERSION
+   ruby 2.5.3p105
+
+BUNDLED WITH
+   1.16.6
