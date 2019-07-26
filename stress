@@ -1,0 +1,15 @@
+#!/bin/bash
+
+peg() {
+  while true
+  do
+    true
+  done
+}
+
+peg &
+pegpid=$!
+
+sleep 300
+
+kill -9 $pegpid
