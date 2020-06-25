@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     puma (3.12.1)
-    rack (2.0.6)
+    rack (2.2.3)
     seg (1.2.0)
     syro (3.1.1)
       rack (>= 1.6.0)
