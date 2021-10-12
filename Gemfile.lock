@@ -1,7 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    puma (3.12.1)
+    nio4r (2.5.8)
+    puma (4.3.9)
+      nio4r (~> 2.0)
     rack (2.0.6)
     seg (1.2.0)
     syro (3.1.1)
